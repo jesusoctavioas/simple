@@ -1,5 +1,5 @@
 # simple
-Simple iis site for the test of azuredevops pipe
+ Site for the azuredevops pipe
 #
 #
 #
